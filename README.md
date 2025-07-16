@@ -1,5 +1,6 @@
 # Unity YOLOv8 Object Detection System
 <img src="https://github.com/user-attachments/assets/ebeb8c8c-2a5c-4d58-b6b4-645b2397c0c4" width="700"/>
+
 A complete Unity-based object detection system using YOLOv8 and Unity's Barracuda inference engine for real-time detection of humans, cows, sheep, and chickens in simulated environments.
 
 
