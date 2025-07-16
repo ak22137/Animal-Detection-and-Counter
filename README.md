@@ -1,0 +1,1 @@
+Object Detection using yolov4 uses unity barracuda engine to run this model throught this we detect and count different animals in unity's simulated environment. It can also be deployed in real world use case
